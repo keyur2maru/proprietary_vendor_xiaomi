@@ -414,6 +414,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/bin/charger_monitor:system/bin/charger_monitor \
     vendor/xiaomi/cancro/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/xiaomi/cancro/proprietary/bin/profiler_daemon:system/bin/profiler_daemon \
+    vendor/xiaomi/cancro/proprietary/bin/xtwifi-inet-agent:system/bin/xtwifi-inet-agent \
+    vendor/xiaomi/cancro/proprietary/bin/xtwifi-client:system/bin/xtwifi-client \
+    vendor/xiaomi/cancro/proprietary/bin/lowi-server:system/bin/lowi-server \
     vendor/xiaomi/cancro/proprietary/vendor/lib/libprofiler_msmadc.so:system/vendor/lib/libprofiler_msmadc.so \
     vendor/xiaomi/cancro/proprietary/bin/qmiproxy:system/bin/qmiproxy \
     vendor/xiaomi/cancro/proprietary/etc/lut.dat:system/etc/lut.dat \
